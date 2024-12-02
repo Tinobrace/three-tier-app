@@ -1,0 +1,10 @@
+# Node.js dependencies
+node_modules/
+
+# Docker artifacts
+*.log
+db_data/
+
+# System files
+.DS_Store
+
